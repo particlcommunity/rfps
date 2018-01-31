@@ -1,4 +1,4 @@
-<img src="https://github.com/particl/branding/blob/master/Logos/particl_logo.svg" />
+<img src="./particl_logo_2.svg" />
 
 =Particl Request For Proposals (RFP)=
 
