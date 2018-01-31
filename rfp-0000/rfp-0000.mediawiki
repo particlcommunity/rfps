@@ -1,0 +1,26 @@
+<pre>
+RFP: 0000
+Title: RFP Template
+Author: CryptoGuard, Paul Schmitzer
+Status: Active
+Created: 2018-01-31
+</pre>
+
+==Abstract==
+Describe the proposal in a short paragraph. Explain what is the objective and what will the end result look like. The proposal should be worded in a concise fashion and constitute a brief overview of the project.
+
+==Scope==
+Describe in great details the entire scope of the proposal. This is the extension of the description section and is where any additional information related to the proposal should be detailed.
+
+==Milestones==
+- Objective 1
+
+- Objective 2
+
+- Objective 3
+
+==Timeframe==
+Enter the estimated time of completion in minutes, hours or days depending on the situation
+
+==Completion Reward==
+Base Reward: 50 PARTs (paid per milestone reached)
