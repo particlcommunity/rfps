@@ -1,0 +1,27 @@
+<img src="https://github.com/particl/branding/blob/master/Logos/particl_logo.svg" />
+
+=Particl Request For Proposals (RFP)=
+
+==Description==
+A Particl RFP is a document intended to solicit proposals for a task such as the development of a community resource (ie: website), or creation of content pieces not specifically identified in [Particl Opportunities](https://github.com/particlcommunity/pops)
+
+==Directory==
+
+{|class="wikitable sortable" style="width: auto; text-align: center;"
+!Number!!Title!!Status
+|-
+|[[./rfp-0000/rfp-0000.mediawiki|0000]]||RFP Template||Active
+|}
+
+==Acknowledgements==
+
+This process was heavily influenced by the Bitcoin Improvement Proposal (BIP)
+process and Decred Change Proposal (DCP) although it has been modified to fit the needs of Particl.  
+
+* The BIP process document from which portions of this document are based is licensed under the BSD-2-Clause license by author "Luke Dashjr &lt;luke+bip@dashjr.org&gt;".
+
+* The DCP process document from which portions of this document are based is licensed under the CC0-1.0 license by author "Jake Yocum-Piatt"
+
+==License==
+
+The Particl RFP process document is released under the terms of the MIT license. For more information see https://opensource.org/licenses/MIT.
