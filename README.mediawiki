@@ -3,7 +3,7 @@
 =Particl Request For Proposals (RFP)=
 
 ==Description==
-A Particl RFP is a document intended to solicit proposals for a task such as the development of a community resource (ie: website), or creation of content pieces not specifically identified in [Particl Opportunities](https://github.com/particlcommunity/pops)
+A Particl RFP is a document intended to solicit proposals for a task such as the development of a community resource (ie: website), or creation of content pieces not specifically identified in Particl [[https://github.com/particlcommunity/pops|Opportunities]].
 
 ==Directory==
 
