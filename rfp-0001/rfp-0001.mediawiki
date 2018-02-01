@@ -1,0 +1,64 @@
+<pre>
+RFP: 0001
+Title: Particl Cold Staking Pool
+Author: CryptoGuard & Paul Schmitzer
+Status: Pending Review
+Created: 2018-01-31
+</pre>
+
+==Abstract==
+Create a cold staking pool for users to delegate their staking power to a pool operator in exchange for smaller payouts. Once completed, the code shall be open-sourced for anyone to inspect/audit. 
+
+==Scope==
+The recent cold staking hardfork has enabled the possibility to set up cold staking pools where operators cannot run with their users' coins. The recent cold staking hardfork has enabled the possibility to set up cold staking pools where operators cannot run with their users' coins. This request for proposal (RFP) is to solicit proposals from qualified sources to create a Particl Staking Pool. The proposals should be in the form of a POP (source: [https://github.com/particlcommunity/pops/blob/master/pop-0000/pop-0000.mediawiki])
+
+==Milestones==
+'''(1) Setup a cold staking pool'''
+* Minimum
+** Have it gather simple statistics per user
+** Gather simple statistics about the pool
+* Additional options
+** Total rewards (number)
+** Total rewards (timeline/chart)
+** ROI (Day/Month/Year)
+
+'''(2) Setup a website for users to interact with the pool'''
+* Minimum
+** Landing page
+** Login/Register page
+** User page
+** Pool stats
+** Registered Users
+** Active Users
+** Coins put up for staking
+** Total Rewards
+** Pool fees
+** Particl Price
+** Setup directions
+* Additional
+** Estimated ROI (Day/Month/Year) includes pool fees
+** Particl Block Explorer
+** Details/How To guides
+
+'''(3) Make the code open-source'''
+
+
+==Timeframe==
+Provide time estimates for each milestone and overall completion of proposal
+
+==POP Completion Reward==
+Provide cost estimate for each milestone and overall completion of proposal
+* '''Base reward:''' 250 PARTs 
+** '''Milestone 1:''' 100 PARTs
+** '''Milestone 2:''' 100 PARTs
+** '''Milestone 3:''' 50 PARTs
+
+* '''Community contribution fund:''' Ps41Lwrc9jpxpwyXhMgroZQ2SQzytR62nh
+** '''NOTE:''' Additional funds from the community are paid after the completion of Milestone 3
+
+
+==References==
+* Decred Staking Pool by Willy Woo: [https://dcr.farm/ dcr.farm]
+* Example 2: [http://stakepool.eu/ stakepool.eu]
+* Example 3: [https://dcr.stakepool.net/ stakepool.net]
+* Source code for stakepool.net: [https://github.com/decred/dcrstakepool Github]
