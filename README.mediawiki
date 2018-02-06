@@ -11,6 +11,8 @@ A Particl RFP is a document intended to solicit proposals for a task such as the
 !Number!!Title!!Status
 |-
 |[[./rfp-0000/rfp-0000.mediawiki|0000]]||RFP Template||Active
+|-
+|[[./rfp-0001/rfp-0001.mediawiki|0001]]||Particl Cold Staking Pool||Active
 |}
 
 ==Acknowledgements==
