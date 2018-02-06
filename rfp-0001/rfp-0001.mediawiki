@@ -9,8 +9,17 @@ Created: 2018-01-31
 ==Abstract==
 Create a cold staking pool for users to delegate their staking power to a pool operator in exchange for smaller payouts. Once completed, the code shall be open-sourced for anyone to inspect/audit. 
 
+==Definitions==
+===Cold Staking===
+Cold staking is enabled by smart-contract functionality and lets users securely delegate staking powers to “staking nodes” which contain no coin. The purpose of these “staking nodes” is to provide a dedicated resource connected to the Particl blockchain and stake on behalf of another wallet without being able to spend its coins. 
+
+Cold staking nodes are intended to be used in combination with cold, hardware and paper wallets as well as multisig addresses, making it possible to stake “offline” coins with no risk of being hacked or exposing your public key to the network. Staking nodes can be set up on any device, secure or not, such as public/cloud servers, virtual machines or RPIs.
+
 ==Scope==
-The recent cold staking hardfork has enabled the possibility to set up cold staking pools where operators cannot run with their users' coins. The recent cold staking hardfork has enabled the possibility to set up cold staking pools where operators cannot run with their users' coins. This request for proposal (RFP) is to solicit proposals from qualified sources to create a Particl Staking Pool. The proposals should be in the form of a POP (source: [https://github.com/particlcommunity/pops/blob/master/pop-0000/pop-0000.mediawiki])
+The recent cold staking hardfork has enabled the possibility to set up cold staking pools where operators cannot run with their users' coins. The recent cold staking hardfork has enabled the possibility to set up cold staking pools where operators cannot run with their users' coins. This request for proposal (RFP) is to solicit proposals from qualified sources to create a Particl Staking Pool. 
+
+* Use the [[https://github.com/particlcommunity/rfps/blob/master/rfp-0000/rfp-0000.mediawiki|RFP Template]] to format your proposal
+* Create a new folder in [[https://github.com/particlcommunity/rfps/tree/master/rfp-0001|RFP-0001]] and include your proposal and any supporting references/materials that support your proposal.
 
 ==Milestones==
 '''(1) Setup a cold staking pool'''
@@ -42,7 +51,6 @@ The recent cold staking hardfork has enabled the possibility to set up cold stak
 
 '''(3) Make the code open-source'''
 
-
 ==Timeframe==
 Provide time estimates for each milestone and overall completion of proposal
 
@@ -62,3 +70,6 @@ Provide cost estimate for each milestone and overall completion of proposal
 * Example 2: [http://stakepool.eu/ stakepool.eu]
 * Example 3: [https://dcr.stakepool.net/ stakepool.net]
 * Source code for stakepool.net: [https://github.com/decred/dcrstakepool Github]
+* [[https://particl.wiki/what-is#particl_proof-of-stake|Particl Proof of Stake]]
+* [[https://particl.news/primer-cold-staking-on-particl-98adbd4a0cac|Primer: Cold Staking on Particl]]
+* [[https://particl.news/guide-setting-up-particl-cold-staking-f5d9073bac4|Guide: Setting up Particl Cold Staking]]
